@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Noor-E-Jannat111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Noor-E-Jannat
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on youtube
+
 
 <!---
 Noor-E-Jannat111/Noor-E-Jannat111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
