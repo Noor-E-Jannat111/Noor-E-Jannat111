@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noor-E-Jannat
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on youtube
 
 
